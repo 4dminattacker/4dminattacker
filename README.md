@@ -29,13 +29,6 @@ I am a developer with a strong focus on low-level system internals and offensive
 - Burp Suite
 - Web Application Security
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?4dminattacker=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 📫 Let's Connect
 
 - ** [ gmail ] ** 4dminattacker@gmail.com
